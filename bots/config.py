@@ -23,5 +23,3 @@ def create_api():
     logger.info("API created")
     return api
 
-
-
